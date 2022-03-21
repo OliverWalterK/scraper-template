@@ -41,3 +41,5 @@ class ScraperTemplate:
 
     def action_or_looping(self):
         pass
+
+    # test
